@@ -15,19 +15,19 @@ Intuitively, generating an adversarial example for a video is more difficult tha
 2. We propose an advanced regularizer  for attacking video classification problem and demonstrate the effectiveness of the regularizer named temporal coherence regularization by evaluating its effect for attack on video model.
 3. We propose a generalized optimization scheme for different types of adversarial attacks, and prove the effectiveness of the optimization method. In video adversarial attack, we find it typically has a value gap between the regularization and classification loss, our new training scheme leads to better convergence speed and generates perturbation even though our attacker lacks the knowledge of the specific frames in the clip.
    
-![framework](./img/framework.png)
+![framework](https://github.com/zhang-jr/LSAP/blob/master/img/framework.png)
 
 ## results
 
-![result_model](./img/result_model.png)
+![result_model](https://github.com/zhang-jr/LSAP/blob/master/img/result_model.png)
 
-![overall_result](./img/overall_result.png)
+![overall_result](https://github.com/zhang-jr/LSAP/blob/master/img/overall_result.png)
 
 
 ## visual examples
-![visu_example](./img/visu_example.png)
+![visu_example](https://github.com/zhang-jr/LSAP/blob/master/img/visu_example.png)
 
 ## Online Video Examples
 <div align="center">
-  <img src="./img/online_demo_1.gif" width="380px" /> <img src="./img/online_demo_2.gif" width="380px" />
+  <img src="https://github.com/zhang-jr/LSAP/blob/master/img/online_demo_1.gif" width="380px" /> <img src="https://github.com/zhang-jr/LSAP/blob/master/img/online_demo_2.gif" width="380px" />
 </div>
